@@ -1,0 +1,17 @@
+{
+ "FirstName": "John",
+ "LastName": "Doe",
+ "Email": "john@doe.com",
+ "Age": 42,
+ "MonthlySalary": [
+  {
+   "Basic": 1500
+  },
+  {
+   "Basic": 1600
+  },
+  {
+   "Basic": 1700
+  }
+ ]
+}
